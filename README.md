@@ -9,7 +9,7 @@ The objective is to place skyscrapers in all cells on the grid according to the 
 - The numbers on the sides of the grid indicate how many skyscrapers would you see if you look in the direction of the arrow.
 Place numbers in each cell to indicate the height of the skyscrapers.
 
-Here is a C implementation of a program aiming at solving any skyscrapers puzzles. The program can be run from the command line by inserting, 
+Here is a C implementation of a program aiming at solving any skyscrapers puzzle. The program can be run from the command line by inserting, 
 in the following order, the height of the skyscrapers:
 - row above
 - row beloq
